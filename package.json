@@ -2,7 +2,7 @@
     "name": "staruml.xmi",
     "title": "XMI",
     "description": "XMI (XML Metadata Interchange) import and export",
-    "homepage": "https://github.com/staruml/XMI",
+    "homepage": "https://github.com/lucyking/XMI",
     "issues": "https://github.com/staruml/XMI/issues",
     "version": "0.9.1",
     "author": {
